@@ -52,4 +52,19 @@ body{
     line-height: 0em;
     overflow: hidden;
 }
+.pic3{
+    text-align: left;
+    font-size: 10px;
+    width: 222.5;
+    height: 149.49;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    margin: 0.5em 1em 0.5em 1em;
+    padding: 0.3em;
+    float:left;
+    clear: left;
+    line-height: 0em;
+    overflow: hidden;
+}
+
 
