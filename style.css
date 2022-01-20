@@ -1,0 +1,55 @@
+body{
+    font-family:sans-serif;
+    font-size: 100%;
+    line-height: 1.6;
+}
+.pic1 {
+    text-align: left;
+    font-size: 10px;
+    width: auto;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    line-height: 0em;
+    overflow: hidden;
+}
+#mainNav a{
+    text-decoration: none;
+}
+#mainNav li :hover{
+    text-decoration-line: underline;
+}  
+#level2 {
+    list-style: none;
+}
+
+.container {
+    text-align: left;   
+    border: 1px solid #a2a9b1;
+    background:  border-box #f8f9fa ;
+    padding: 5px;
+    font-size: 95%;
+    width: fit-content ;
+    
+}
+
+.containerTitle h3 {
+    text-align: center;
+}
+.pic2 {
+    text-align: left;
+    font-size: 10px;
+    width: auto;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    line-height: 0em;
+    overflow: hidden;
+}
+
