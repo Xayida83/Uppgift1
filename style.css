@@ -20,9 +20,9 @@ body{
     font-size: 100%;
     grid-column: 5px;
 }
+
 tbody th{
     font-family: sans-serif;
-    direction: ltr;
     border-spacing: 1px;
     color: black;
     line-height: 1.5em;
@@ -30,10 +30,6 @@ tbody th{
     vertical-align: top;
     text-align: center;
     background-color: rgb(235,235,210);
-}
-tbody td {
-    text-align: center;
-    font-size: 88%;
 }
 
 #mainNav a{
