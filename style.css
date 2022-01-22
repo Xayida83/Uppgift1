@@ -59,7 +59,48 @@ tbody td {
 .containerTitle h3 {
     text-align: center;
 }
+.pic2 h2{
+    font-family: sans-serif;
+}
 .pic2 {
+    text-align: left;
+    font-size: 10px;
+    width: auto;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    line-height: 0em;
+    overflow: hidden;
+}
+
+
+.pic3{
+    text-align: left;
+    font-size: 12.3704px ;
+    background-color: #F8F9FA;
+    color: #202122;
+    width: 222.5;
+    height: 149.49;
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    margin: 0.5em 1em 0.5em 1em;
+    padding: 0.3em;
+    float:left;
+    clear: left;
+    line-height: 0em;
+    overflow: hidden;
+}
+#Behaviour h2{
+    margin-bottom: 0px;
+ 
+}
+#hr{
+    margin-top: 0%;
+}
+.pic4{
     text-align: left;
     font-size: 10px;
     width: auto;
